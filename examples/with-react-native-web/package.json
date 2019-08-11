@@ -1,0 +1,28 @@
+{
+  "name": "rogue-styled-components-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rogue dev",
+    "build": "rogue build",
+    "start": "rogue start"
+  },
+  "dependencies": {
+    "@roguejs/app": "0.9.4",
+    "babel-plugin-module-resolver": "^3.1.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-native-web": "^0.9.10",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@roguejs/cli": "^0.9.5",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-emotion": "^10.0.5",
+    "babel-plugin-react-native-web": "^0.9.10",
+    "babel-plugin-styled-components": "^1.10.0",
+    "react-art": "^16.7.0"
+  }
+}
